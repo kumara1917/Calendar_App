@@ -1,12 +1,27 @@
-# Build a react tailwind calendar ui from scratch
+# 📅 React Calendar App
 
-Learn how to create a calendar from scratch with dynamic content.
+A responsive and minimal **React-based Calendar App** with support for:
+- 🔹 Adding, editing, and deleting events
+- 🎨 Custom event colors
+- 🔁 Recurring events (Daily, Weekly, Monthly)
+- 💾 Data stored in **Local Storage**
+- 🌐 Deployed on GitHub Pages
 
-watch the tutorial: https://youtu.be/s9-K02CP8hw
+---
 
-<img width="1406" alt="swag" src="https://user-images.githubusercontent.com/52232579/199394208-77787073-9d2e-40f0-885f-be81a2c6eb4c.png">
+## 🔧 Features
 
-## Built With
+- 📆 Monthly calendar view
+- 📝 Event title, time, color, and repeat options
+- 🚀 One-click GitHub Pages deployment
 
--   [React](https://reactjs.org/)
--   [Tailwind CSS](https://tailwindcss.com)
+---
+
+## 📸 Preview
+
+![Calendar Preview](./preview.png)
+
+---
+
+## ⚙️ Setup Instructions
+
