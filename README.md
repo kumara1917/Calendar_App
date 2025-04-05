@@ -19,7 +19,7 @@ A responsive and minimal **React-based Calendar App** with support for:
 
 ## 📸 Preview
 
-![Calendar Preview](./preview.png)
+![Calendar Preview](https://kumara1917.github.io/Calendar_App/)
 
 ---
 
